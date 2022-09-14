@@ -1,5 +1,6 @@
-@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@400;500&display=swap");
 @import url("https://fonts.googleapis.com/css2?family=Roboto+Slab&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Playfair+Display+SC:wght@700&family=Sofia&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Rye&display=swap");
 @font-face {
   font-family: "Brand";
   src: url("../public/Brand.woff");
@@ -22,8 +23,8 @@ nav {
   align-items: center;
   justify-content: center;
   padding: 5rem 0 3rem 0;
-  font-family: "Brand";
-  font-size: 2rem;
+  font-family: "Rye", cursive;
+  font-size: 3rem;
 }
 
 h1 {
